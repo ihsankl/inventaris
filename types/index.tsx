@@ -1,0 +1,1 @@
+export type FC<Props = {}> = (props: Props & { children?: any }) => any;
